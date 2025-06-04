@@ -1,2 +1,2 @@
 # Collision-Checker
-Built an occupancy grid system, developed geometric functions to generate robot footprints, perform batched transformations, and batch checked collision free paths using numpy vectorization.
+Built an occupancy grid system, developed geometric functions to generate robot footprints, perform batched transformations, and batch checked collision free paths using numpy vectorization. Used linear interpolation to validate local paths between sampled robot poses. Visualized occupancy maps, robot positions, and path validity using Matplotlib. Used NumPy’s einsum, broadcasting, and vectorization for efficient geometric computations.
